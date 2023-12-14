@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333549085848",
+    "project_id": "proyectorn-bc759",
+    "storage_bucket": "proyectorn-bc759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333549085848:android:8da8006c0b1d19dc275ced",
+        "android_client_info": {
+          "package_name": "com.proyecto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PuS5sMqPBamXUCCi_ixfo4RqdNgC2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
